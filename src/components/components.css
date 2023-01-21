@@ -1,0 +1,9 @@
+.nav {
+  background-color: #ffd1dc;
+}
+.nav li{
+    list-style: none;
+}
+.nav li .nl{
+    text-decoration: none;
+}
